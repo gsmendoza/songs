@@ -1,0 +1,67 @@
+chords:
+  Intro: |
+    <G>- <Bm>-
+    <Bb>---
+    <Am7>- <D7>-
+
+  Verse: |
+    <G>- <Am7>- <Bm>- <C>-
+    <G>- <Am7>- <Bm>- <C>-
+    <F#m7>- <B7>- <F#m7>- <B7>-
+    <Em>- <Am>- <Am7>- <D7>-
+
+  Verse To Chorus: |
+    <G>- <Am7>- <Bm>- <C>-
+    <G>- <Am7>- <Bm>- <C>-
+    <F#m7>- <B7>- <F#m7>- <B7>-
+    <Em>- <Am>- <Am7>- <D7><F7>
+
+  Chorus: |
+    <Bb>- <Gm>-
+    <Cm>- <D7>-
+    <Gm>---
+    <Cm>- <D7>-
+
+  Last Verse: |
+    <G>- <Am7>- <Bm>- <C>-
+    <G>- <Am7>- <Bm>- <C>-
+    <G>---
+
+lyrics:
+  - Intro: |
+      To lead a better life,
+      I need my love to be here.
+      ...
+
+  - Verse: |
+      Here, making each day of the year
+      Changing my life
+      with a wave of her hand. Nobody can deny
+      that there's something there.
+
+  - Verse To Chorus: |
+      There, running my hands through her hair
+      Both of us thinking
+      how good it can be. Someone is speaking,
+      but she doesn't know he's there.
+
+  - Chorus: |
+      I want her everywhere
+      And if she's beside me I know
+      I need never care.
+      But to love her is to need her everywhere
+
+  - Verse To Chorus: &Verse3 |
+      Knowing that love is to share,
+      Each one believing
+      that love never dies. Watching her eyes,
+      and hoping I'm always there.
+
+  - Chorus
+
+  - Verse: *Verse3
+
+  - Last Verse: |
+      I will be there, and everywhere.
+      Here, there, and everywhere.
+      ...
