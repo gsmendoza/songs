@@ -2,19 +2,19 @@ music_key: G
 
 chords:
   Intro: |
-    I--- I- V7-
+    <G>--- <G>- <D7>-
 
   Verse: |
-    I---
-    II---
-    III7- IV-
-    V IV I V7
+    <G>---
+    <Am>---
+    <B7>- <C>-
+    <D> <C> <G> <D7>
 
   Chorus: |
-    I---
-    II---
-    III7- IV-
-    V IV I V7
+    <G>---
+    <Am>---
+    <B7>- <C>-
+    <D> <C> <G> <D7>
 
 lyrics:
   - Intro: |
