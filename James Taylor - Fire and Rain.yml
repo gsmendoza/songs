@@ -1,26 +1,27 @@
-music_key: C (Capo on 3rd)
+details: |
+  Key of C (Capo on 3rd)
 
 chords:
   Intro: |
-    A- G- D- A-
-    A- E- G---
+    <A>- <G>- <D>- <A>-
+    <A>- <E>- <G>---
 
   Verse: |
-    A- Em- D- A-
-    A- E- G---
-    A- Em- D- A-
-    A- E- G---
+    <A>- <Em>- <D>- <A>-
+    <A>- <E>- <G>---
+    <A>- <Em>- <D>- <A>-
+    <A>- <E>- <G>---
 
   Chorus: |
-    D- Bm- A---
-    D- Bm- A---
-    D- Bm- A---
-    G- Em- A---
+    <D>- <Bm>- <A>---
+    <D>- <Bm>- <A>---
+    <D>- <Bm>- <A>---
+    <G>- <Em>- <A>---
 
   Outro: |
-    G- Em- A---
-    G- Em- A---
-    G- Em- A---
+    <G>- <Em>- <A>---
+    <G>- <Em>- <A>---
+    <G>- <Em>- <A>---
 
 lyrics:
   - Intro: |
