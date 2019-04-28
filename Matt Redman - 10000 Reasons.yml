@@ -1,15 +1,15 @@
 chords:
   Chorus: |
-    <I>- <V>- <II>- <iii>-
-    <I>- <V>- <II>---
-    <I>- <iii>- <I><II> <iii>-
-    <I>- <II>- <V>---
+    <IV>- <I>- <V>- <vi>-
+    <IV>- <I>- <V>---
+    <IV>- <vi>- <IV><V> <vi>-
+    <IV>- <V>- <I>---
 
   Verse: |
-    <I>- <V>- <II>- <iii>-
-    <I>- <V>- <II>- <iii>-
-    <I>- <V>- <II>- <iii>---
-    <I>- <V>- <II>- <V>---
+    <IV>- <I>- <V>- <vi>-
+    <IV>- <I>- <V>- <vi>-
+    <IV>- <I>- <V>- <vi>---
+    <IV>- <I>- <V>- <I>---
 
 lyrics:
   - Chorus: |
