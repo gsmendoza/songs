@@ -1,25 +1,26 @@
 Lorenz Hart & Richard Rodgers - Blue Moon
 
-Verse 1
+
+[Verse 1]
 Blue moon you saw me standing alone             <GM7>- <G6>- <Am7>- <Am6>-
 Without a dream in my heart                     <GM7>- <G6>- <Am7>- <Am6>-
 Without a love of my own                        <Bm7>- <Bm6>- <Am7>- <Am6>-
 ...                                             <GM7>- <G6>- <Am7>- <Am6>-
 
-Verse 2
+[Verse 2]
 Blue moon, you knew just what I was there for   <GM7>- <Bm7><Bbm7> <Am7>- <Am6>-
 You heard me saying a prayer for                <GM7>- <G6>- <Am7>- <Am6>-
 Someone I really could care for                 <Bm7>- <Bm6>- <Am7>- <Am6>-
 ...                                             <GM7>- <Cm6>- <G6>---
 
-Bridge
+[Bridge]
 And then there suddenly appeared before me      <Am7>- <Am6>- <GM7>- <Bm7><Bbm7>
 The only one my arms will hold                  <Am7>- <Am6>- <GM7>- <G6>-
 I heard somebody whisper "Please adore me"      <Cm7>- <Cm6>- <BbM7>- <Bb6>-
 And when I looked, the moon had turned to       <DM7>- <A7>- <Am7>- <Am6>-
 gold!
 
-Verse 2
+[Verse 2]
 Blue moon! Now I'm no longer alone              <GM7>- <Bm7><Bbm7> <Am7>- <Am6>-
 Without a dream in my heart                     <GM7>- <G6>- <Am7>- <Am6>-
 Without a love of my own                        <Bm7>- <Bm6>- <Am7>- <Am6>-

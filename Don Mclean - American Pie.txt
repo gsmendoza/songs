@@ -1,6 +1,7 @@
 Don Mclean - American Pie
 
-Verse (First)
+
+[Verse (First)]
 A long, long time ago                                <G> <D> <Em>-
 I can still remember                                 <Am>- <C>-
 how that music used to make me smile.                <Em>- <D>---
@@ -19,14 +20,14 @@ when I read about his widowed bride,                 <C>- <D>-
 Something touched me deep inside                     <G> <D> <Em>-
 the day the music died.                              <C>- <D>- <G>---
 
-Chorus
+[Chorus]
 So bye-bye, Miss American Pie.                       <G>- <C>- <G>- <D>-
 Drove my Chevy to the levee but the levee was dry,   <G>- <C>- <G>- <D>-
 them good ole boys were drinkin' whiskey and Rye,    <G>- <C>- <G>- <D>-
 singing this'll be the day that I die,               <Em>--- <A7>---
 This'll be the day that I die.                       <Em>--- <D>--- ----
 
-Verse (Fast)
+[Verse (Fast)]
 Did you write the book of love                       <G>- <Am>-
 and do you have faith in God above?                  <C>- <Am>-
 If the Bible tells you so                            <Em>- <D>---
@@ -45,14 +46,14 @@ with a pink carnation and a pick-up truck.           <Am>- <C>-
 But I knew I was out of luck                         <G> <D> <Em>-
 the day, the music died. I started singing           <C>- <D>- <G> <C> <G> <D>
 
-Chorus
+[Chorus]
 So bye-bye, Miss American Pie.                       <G>- <C>- <G>- <D>-
 Drove my Chevy to the levee but the levee was dry,   <G>- <C>- <G>- <D>-
 them good ole boys were drinkin' whiskey and Rye,    <G>- <C>- <G>- <D>-
 singing this'll be the day that I die,               <Em>--- <A7>---
 This'll be the day that I die.                       <Em>--- <D>--- ----
 
-Verse (Fast)
+[Verse (Fast)]
 Now for ten years, we've been on our own             <G>- <Am>-
 and moss grows fat on a rolling stone,               <C>- <Am>-
 But that's not how it used to be.                    <Em>- <D>---
@@ -71,14 +72,14 @@ the quartet practiced in the park                    <Am>- <C>-
 and we sang dirges in the dark                       <G> <D> <Em>-
 the day the music died. I started singin'            <C>- <D>- <G> <C> <G> <D>
 
-Chorus
+[Chorus]
 So bye-bye, Miss American Pie.                       <G>- <C>- <G>- <D>-
 Drove my Chevy to the levee but the levee was dry,   <G>- <C>- <G>- <D>-
 them good ole boys were drinkin' whiskey and Rye,    <G>- <C>- <G>- <D>-
 singing this'll be the day that I die,               <Em>--- <A7>---
 This'll be the day that I die.                       <Em>--- <D>--- ----
 
-Verse (Fast)
+[Verse (Fast)]
 Helter skelter in the summer swelter                 <G>- <Am>-
 the birds flew off with a fallout shelter            <C>- <Am>-
 Eight miles high and falling fast                    <Em>- <D>---
@@ -97,14 +98,14 @@ but the marching band refused to yield               <Am>- <C>-
 Do you recall what was revealed                      <G> <D> <Em>-
 the day the music died. I started singin'            <C>- <D>- <G> <C> <G> <D>
 
-Chorus
+[Chorus]
 So bye-bye, Miss American Pie.                       <G>- <C>- <G>- <D>-
 Drove my Chevy to the levee but the levee was dry,   <G>- <C>- <G>- <D>-
 them good ole boys were drinkin' whiskey and Rye,    <G>- <C>- <G>- <D>-
 singing this'll be the day that I die,               <Em>--- <A7>---
 This'll be the day that I die.                       <Em>--- <D>--- ----
 
-Verse (Fast)
+[Verse (Fast)]
 And there we were all in one place,                  <G>- <Am>-
 A generation lost in space.                          <C>- <Am>-
 With no time left, to start again.                   <Em>- <D>---
@@ -123,14 +124,14 @@ to light the sacrificial rite                        <Am>- <C>-
 I saw Satan laughing with delight,                   <G> <D> <Em>-
 the day the music died. We were singin'              <C>- <D>- <G> <C> <G> <D>
 
-Chorus
+[Chorus]
 So bye-bye, Miss American Pie.                       <G>- <C>- <G>- <D>-
 Drove my Chevy to the levee but the levee was dry,   <G>- <C>- <G>- <D>-
 them good ole boys were drinkin' whiskey and Rye,    <G>- <C>- <G>- <D>-
 singing this'll be the day that I die,               <Em>--- <A7>---
 This'll be the day that I die.                       <Em>--- <D>--- ----
 
-Verse (Last)
+[Verse (Last)]
 I met a girl who sang the blues                      <G> <D> <Em>-
 so I asked her for some happy news                   <Am>- <C>-
 but she just smiled and turned away.                 <Em>- <D>---
@@ -149,14 +150,14 @@ the father, Son and the Holy Ghost                   <C>- <D>-
 They caught the last train for the coast             <G> <D> <Em>-
 the day, the music died. And they were singing       <C>- <D>- <G>---
 
-Chorus
+[Chorus]
 So bye-bye, Miss American Pie.                       <G>- <C>- <G>- <D>-
 Drove my Chevy to the levee but the levee was dry,   <G>- <C>- <G>- <D>-
 them good ole boys were drinkin' whiskey and Rye,    <G>- <C>- <G>- <D>-
 singing this'll be the day that I die,               <Em>--- <A7>---
 This'll be the day that I die.                       <Em>--- <D>--- ----
 
-Chorus (Last)
+[Chorus (Last)]
 So bye-bye, Miss American Pie.                       <G>- <C>- <G>- <D>-
 Drove my Chevy to the levee but the levee was dry,   <G>- <C>- <G>- <D>-
 them good ole boys were drinkin' whiskey and Rye,    <G>- <C>- <G>- <D>-
