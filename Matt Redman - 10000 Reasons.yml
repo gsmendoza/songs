@@ -1,17 +1,48 @@
-chords:
-  Chorus: |
+details: |
+  Original Key: G
+  Preferred Key: C
+
+  Common progression:
+    <IV>- <I>- <V>- <vi>-
+
+  Intro progression:
+    <IV>- <I>- <V>- <vi>-
+    <IV>- <I>- <V>---
+
+  Chorus progression:
     <IV>- <I>- <V>- <vi>-
     <IV>- <I>- <V>---
     <IV>- <vi>- <IV><V> <vi>-
     <IV>- <V>- <I>---
 
-  Verse: |
+  Verse progression:
     <IV>- <I>- <V>- <vi>-
     <IV>- <I>- <V>- <vi>-
     <IV>- <I>- <V>- <vi>---
     <IV>- <I>- <V>- <I>---
 
+chords:
+  Intro: |
+    <C>- <G>- <D>- <Em>-
+    <C>- <G>- <D>---
+
+  Chorus: |
+    <C>- <G>- <D>- <Em>-
+    <C>- <G>- <D>---
+    <C>- <Em>- <C><D> <Em>-
+    <C>- <D>- <G>---
+
+  Verse: |
+    <C>- <G>- <D>- <Em>-
+    <C>- <G>- <D>- <Em>-
+    <C>- <G>- <D>- <Em>---
+    <C>- <G>- <D>- <G>---
+
 lyrics:
+  - Intro: |
+      1
+      2
+
   - Chorus: |
       Bless the Lord, O my soul, O my soul,
       Worship His holy name.
