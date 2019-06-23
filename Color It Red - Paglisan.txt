@@ -1,0 +1,50 @@
+Color It Red - Paglisan
+
+Original key is E
+Preferred key: F#
+
+Progressions:
+  Verse:
+    <I>--- <ii>- <V>- 2x
+    <IV>- <iii>- <vi>- [<ii>|<II>]-
+    <IV>- <iii>- <ii>- <V>-
+
+  Chorus:
+    <I>--- <IV>---
+    <I>--- <IV>---
+    <I>- <ii>- <vi><V><IV>-
+    <IV>-
+
+[Intro]
+...                                                 <E/A>- <E/Ab>- <F#m7>- <B7>-
+...                                                 <E/A>- <E/Ab>- <F#m7>- <B7>-
+
+[Verse 1]
+Kung ang buhay ay isang umagang nakangiti           <E>--- <F#m7>- <B7>-
+At ikaw ay ang lupang sinusuyo ng bituin            <E>--- <F#m7>- <B7>-
+Di mo man silip ang langit,                         <A>- <G#m7>- <C#m7>- <F#m7>-
+Di mo man silip, ito'y nandirito pa rin.            <A>- <G#m7>- <F#m7>- <B7>-
+
+[Chorus]
+Kung ang lahat ay may katapusan                     <E>--- <A>---
+Itong paglalakbay ay makakarating din sa            <E>--- <A>---
+paroroonan
+At sa iyong paglisan,                               <E>- <F#m7>-
+Ang tanging pabaon ko ay pag-ibig.                  <C#m7> <B> <A>---
+
+[Instrumental]
+(1)...                                              <E>--- <A>---
+(2)...                                              <E>--- <A>---
+
+[Verse 2]
+Sa pagbuhos ng ulan, sa haplos ng hangin            <E>--- <F#m7>- <B7>-
+Alaala mo ay nakaukit sa pisngi ng langit           <E>--- <F#m7>- <B7>-
+Di man umihip ang hangin,                           <A>- <G#m7>- <C#m7>- <F7>-
+Di man umihip, ika'y nandirito pa rin               <A>- <G#m7>- <F#m7>- <B7>-
+
+[Chorus]
+Kung ang lahat ay may katapusan                     <E>--- <A>---
+Itong paglalakbay ay makakarating din sa            <E>--- <A>---
+paroroonan
+At sa iyong paglisan,                               <E>- <F#m7>-
+Ang tanging pabaon ko ay pag-ibig.                  <C#m7> <B> <A>---
