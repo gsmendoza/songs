@@ -1,7 +1,9 @@
 Matt Redman - 10000 Reasons
 
 Original Key: G
+
 Preferred Key: C
+Preferred Key First Notes: E G A
 
 Common progression:
   <IV>- <I>- <V>- <vi>-
