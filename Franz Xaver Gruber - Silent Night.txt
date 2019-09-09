@@ -1,0 +1,33 @@
+Franz Xaver Gruber - Silent Night
+
+Chord progression:
+  <I>-- --- --- ---
+  <V>-- <V7>-- <I>-- <I7>--
+  <IV>-- --- <I>-- ---
+  <IV>-- --- <I>-- ---
+  <V>-- <V7>-- <I>-- <vi>--
+  <I>-- <V>-- <I>-- ---
+
+[Verse]
+Silent night! Holy night!           <G>-- --- --- ---
+All is calm all is bright           <D>-- <D7>-- <G>-- <G7>--
+Round yon virgin mother and child   <C>-- --- <G>-- ---
+Holy infant so tender and mild      <C>-- --- <G>-- ---
+Sleep in heavenly peace!            <D>-- <D7>-- <G>-- <Em>--
+Sleep in heavenly peace!            <G>-- <D>-- <G>-- ---
+
+[Verse]
+Silent night! Holy night!           <G>-- --- --- ---
+Shepherds quake at the sight        <D>-- <D7>-- <G>-- <G7>--
+Glories stream from heaven afar     <C>-- --- <G>-- ---
+Heavenly hosts sing Hallelujah      <C>-- --- <G>-- ---
+Christ the Saviour is born!         <D>-- <D7>-- <G>-- <Em>--
+Christ the Saviour is born!         <G>-- <D>-- <G>-- ---
+
+[Verse]
+Silent night! Holy night!           <G>-- --- --- ---
+Son of God love's pure light        <D>-- <D7>-- <G>-- <G7>--
+Radiant beams from thy holy face    <C>-- --- <G>-- ---
+With the dawn of redeeming grace    <C>-- --- <G>-- ---
+Jesus lord at thy birth!            <D>-- <D7>-- <G>-- <Em>--
+Jesus lord at thy birth!            <G>-- <D>-- <G>-- ---
