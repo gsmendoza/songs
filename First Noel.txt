@@ -1,0 +1,32 @@
+First Noel
+
+Chord progression:
+  Verse: |
+    I-- V-- vi-- V--
+    vi-- V-- IV-- I--
+    I-- V-- vi-- V--
+    vi-- V-- IV-- I--
+
+  Chorus: |
+    I-- V-- vi-- iii--
+    vi-- V-- IV-- I--
+
+[Verse]
+The First Noel, the Angels did say                    <G>-- <D>-- <Em>-- <D>--
+Was to certain poor shepherds in fields as they lay   <Em>-- <D>-- <C>-- <G>--
+In fields where they lay keeping their sheep          <G>-- <D>-- <Em>-- <D>--
+On a cold winter's night that was so deep             <Em>-- <D>-- <C>-- <G>--
+
+[Chorus]
+Noel, Noel, Noel, Noel                                <G>-- <D>-- <Em>-- <Bm>--
+Born is the King of Israel!                           <Em>-- <D>-- <C>-- <G>--
+
+[Verse]
+They looked up and saw a star                         <G>-- <D>-- <Em>-- <D>--
+Shining in the East beyond them far                   <Em>-- <D>-- <C>-- <G>--
+And to the earth it gave great light                  <G>-- <D>-- <Em>-- <D>--
+And so it continued both day and night                <Em>-- <D>-- <C>-- <G>--
+
+[Chorus]
+Noel, Noel, Noel, Noel                                <G>-- <D>-- <Em>-- <Bm>--
+Born is the King of Israel!                           <Em>-- <D>-- <C>-- <G>--
