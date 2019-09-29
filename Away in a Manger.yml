@@ -1,0 +1,32 @@
+details: |
+  Chord progression:
+    I-- I-- IV-- I--
+    V7-- V7-- IV-- I--
+    I-- I-- IV-- I--
+    IV-- I-- V7-- I-- I--
+
+chords:
+  Verse: |
+    <D>-- <D>-- <G>-- <D>--
+    <A7>-- <A7>-- <G>-- <D>--
+    <D>-- <D>-- <G>-- <D>--
+    <G>-- <D>-- <A7>-- <D>-- <D>--
+
+lyrics:
+  - Verse: |
+      Away in a manger, no crib for a bed
+      The little Lord Jesus lay down his sweet head.
+      The stars in the bright sky looked down where he lay,
+      The little Lord Jesus asleep on the hay.
+
+  - Verse: |
+      The cattle are lowing, the baby awakes,
+      But little Lord Jesus no crying he makes.
+      I love Thee, Lord Jesus, look down from the sky
+      And stay by my cradle til morning is nigh.
+
+  - Verse: |
+      Be near me, Lord Jesus, I ask Thee to stay
+      Close by me forever, and love me, I pray
+      Bless all the dear children in thy tender care,
+      And take us to heaven, to live with Thee there.

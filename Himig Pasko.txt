@@ -1,0 +1,32 @@
+Himig Pasko
+
+Chord progression:
+  Verse: |
+    <I>-- <IV>-- <I>-- ---
+    <I>-- <V>-- <I>-- ---
+    <I>-- <IV>-- <I>-- ---
+    <I>-- <V>-- <I>-- ---
+
+  Chorus: |
+    <V>-- --- <I>-- ---
+    <V>-- --- <I>-- ---
+    <II7>-- --- <V>-- ---
+    <II7>-- --- <V>-- <V7>--
+
+[Verse]
+Malamig ang simoy ng hangin      <A>-- <D>-- <A>-- ---
+Kay saya ng bawat damdamin.      <A>-- <E>-- <A>-- ---
+Ang tibok ng puso sa dibdib      <A>-- <D>-- <A>-- ---
+Para bang hulong na ng langit.   <A>-- <E>-- <A>-- ---
+
+[Chorus]
+Himig Pasko'y laganap            <E>-- --- <A>-- ---
+Mayro'ng sigla ang lahat.        <E>-- --- <A>-- ---
+Wala ng kalungkutan              <B7>-- --- <E>-- ---
+Lubos ang kasiyahan.             <B7>-- --- <E>-- <E7>--
+
+[Verse]
+Himig ng Pasko'y umiiral         <A>-- <D>-- <A>-- ---
+Sa loob ng bawat tahanan.        <A>-- <E>-- <A>-- ---
+Masaya ang mga tanawin.          <A>-- <D>-- <A>-- ---
+May awit ang simoy ng hangin.    <A>-- <E>-- <A>-- ---
