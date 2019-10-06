@@ -1,0 +1,67 @@
+details: |
+  Chord progression:
+    Verse: |
+      I- V-
+      I- V-
+      vi- V-
+      II- V-
+      I- V7 I
+      V vi V-
+
+    Chorus: |
+      I---
+      I---
+      V II7 V IV
+      I V I-
+
+chords:
+  Verse: |
+    <D>- <A>-
+    <D>- <A>-
+    <Bm>- <A>-
+    <E>- <A>-
+    <D>- <A7> <D>
+    <A> <Bm> <A>-
+
+  Chorus: |
+    <D>---
+    <D>
+    <A> <E7> <A> <G>
+    <D> <A> <D>-
+
+
+lyrics:
+  - Verse: |
+      O come, all ye faithful
+      Joyful and triumphant
+      O come ye, oh come ye to
+      Bethlehem
+      Come and behold Him
+      Born the king of angels
+
+  - Chorus: |
+      Oh come let us adore Him
+      Oh come let us adore Him
+      Oh come let us adore Him
+      Christ the Lord
+
+  - Verse: |
+      Sing, Choirs of angels
+      Sing in exultation
+      Sing all ye citizens of
+      heaven above!
+      Glory to God
+      Glory in the highest
+
+  - Chorus
+
+  - Verse: |
+      Yea, Lord we greet thee
+      Born this happy morning
+      Jesus to Thee be all
+      glory given
+      Word of the Father
+      Now in flesh appearing
+
+  - Chorus
+
