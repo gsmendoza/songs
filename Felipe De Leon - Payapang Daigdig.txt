@@ -1,0 +1,46 @@
+Felipe De Leon - Payapang Daigdig
+
+Chord progression:
+  Verse: |
+    I-- ---
+    IV-- iv--
+    I-- vi--
+    II7-- V--
+
+    I-- I7--
+    IV-- ---
+    V-- ---
+    IV- V I- I7
+
+  Chorus: |
+    IV-- ---
+    I-- I7--
+    IV-- ---
+    I-- ---
+
+    I-- ---
+    I7-- IV--
+    IV-- I--
+    V7-- I--
+
+[Verse]
+Ang gabi'y payapa      <A>-- ---
+Lahat ay tahimik       <D>-- <Dm>--
+Pati mga tala          <A>-- <F#m>--
+Sa bughaw na langit    <B7>-- <E>--
+
+Kay hinhin ng hangin   <A>-- <A7>--
+Waring umiibig         <D>-- ---
+Sa kapayapaan          <E>-- ---
+Ng buong daigdig       <D>- <E> <A>- <A7>
+
+[Chorus]
+Payapang panahon       <D>-- ---
+Ay diwa ng buhay       <A>-- <A7>--
+Biyaya ng Diyos        <D>-- ---
+Sa sangkatauhan        <A>-- ---
+
+Ang gabi'y payapa      <A>-- ---
+Lahat ay tahimik       <A7>-- <D>--
+Pati mga tala          <D>-- <A>--
+Sa bughaw na langit    <E7>-- <A>--
