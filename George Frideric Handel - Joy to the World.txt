@@ -1,0 +1,30 @@
+George Frideric Handel - Joy to the World
+
+Chord progression:
+  Verse:
+    I--- V- I-
+    IV- V- I---
+    I--- I---
+    I--- V---
+    I- IV- I V I-
+
+[Verse]
+Joy to the world, the Lord is come!                       <A>--- <E>- <A>-
+Let earth receive her King;                               <D>- <E>- <A>---
+Let every heart prepare Him room,                         <A>--- <A>---
+And Heaven and nature sing, And Heaven and nature sing,   <A>--- <E>---
+And Heaven, and Heaven, and nature sing.                  <A>- <D>- <A> <E> <A>-
+
+[Verse]
+Joy to the earth, the Savior reigns!                      <A>--- <E>- <A>-
+Let men their songs employ;                               <D>- <E>- <A>---
+While fields and floods, rocks, hills and plains          <A>--- <A>---
+Repeat the sounding joy, Repeat the sounding joy,         <A>--- <E>---
+Repeat, repeat, the sounding joy.                         <A>- <D>- <A> <E> <A>-
+
+[Verse]
+He rules the world with truth and grace,                  <A>--- <E>- <A>-
+And makes the nations prove                               <D>- <E>- <A>---
+The glories of His righteousness,                         <A>--- <A>---
+And wonders of His love, And wonders of His love,         <A>--- <E>---
+And wonders, wonders, of His love.                        <A>- <D>- <A> <E> <A>-
