@@ -1,0 +1,76 @@
+Adolphe Adam - O Holy Night (Key of A)
+
+Capo on second fret
+
+Progression:
+  Verse: |
+    I--- IV- I---
+    I- V7- I---
+    I--- IV- I---
+    iii- VII7- iii---
+
+  Refrain: |
+    V7--- I---
+    V7--- I---
+
+  Chorus: |
+    vi--- iii---
+    ii--- vi---
+    I- V7- I- IV-
+    I- V7- I---
+    V7--- I- IV-
+    I- V7- I---
+
+[Verse]
+O holy night! The stars are brightly shining,         <G>--- <C>- <G>---
+It is the night of our dear Saviour's birth.          <G>- <D7>- <G>---
+Long lay the world in sin and error pining,           <G>--- <C>- <G>---
+Till He appear'd and the soul felt its worth.         <Bm>- <F#7>- <Bm>---
+
+[Refrain]
+A thrill of hope, the weary world rejoices,           <D7>--- <G>---
+For yonder breaks a new and glorious morn.            <D7>--- <G>---
+
+[Chorus]
+Fall on your knees!                                   <Em>--- <Bm>---
+O hear the angel voices!                              <Am>--- <Em>---
+O night divine,                                       <G>- <D7>- <G>- <C>-
+O night when Christ was born;                         <G>- <D7>- <G>---
+O night divine,                                       <D7>--- <G>- <C>-
+O night, O night Divine.                              <G>- <D7>- <G>---
+
+[Verse]
+Led by the light of Faith serenely beaming,           <G>--- <C>- <G>---
+With glowing hearts by His cradle we stand.           <G>- <D7>- <G>---
+So led by light of a star sweetly gleaming,           <G>--- <C>- <G>---
+Here come the wise men from the Orient land.          <Bm>- <F#7>- <Bm>---
+
+[Refrain]
+The King of Kings lay thus in lowly manger;           <D7>--- <G>---
+In all our trials born to be our friend.              <D7>--- <G>---
+
+[Chorus]
+He knows our need,                                    <Em>--- <Bm>---
+to our weaknesses no stranger,                        <Am>--- <Em>---
+Behold your King!                                     <G>- <D7>- <G>- <C>-
+Before Him lowly bend!                                <G>- <D7>- <G>---
+Behold your King,                                     <D7>--- <G>- <C>-
+Before Him lowly bend!                                <G>- <D7>- <G>---
+
+[Verse]
+Truly He taught us to love one another;               <G>--- <C>- <G>---
+His law is love and His gospel is peace.              <G>- <D7>- <G>---
+Chains shall He break for the slave is our brother;   <G>--- <C>- <G>---
+And in His name all oppression shall cease.           <Bm>- <F#7>- <Bm>---
+
+[Refrain]
+Sweet hymns of joy in grateful chorus raise we,       <D7>--- <G>---
+Let all within us praise His holy name.               <D7>--- <G>---
+
+[Chorus]
+Christ is the Lord!                                   <Em>--- <Bm>---
+O praise His Name forever,                            <Am>--- <Em>---
+His power and glory                                   <G>- <D7>- <G>- <C>-
+evermore proclaim.                                    <G>- <D7>- <G>---
+His power and glory                                   <D7>--- <G>- <C>-
+evermore proclaim.                                    <G>- <D7>- <G>---
