@@ -1,0 +1,65 @@
+details: |
+  Progression:
+    Verse: |
+      <i>- <VII> <v> <i>---
+      <III>- <iv> <VII> <i>---
+      <iv>- <III> <v> <VII>---
+      <i>- <iv> <VII> <i>---
+
+    Chorus: |
+      <VII>- <i>- <iv> <VII> <i>-
+      <III>- <iv> <v> <i>---
+
+chords:
+  Verse: |
+    <Am>- <G> <Em> <Am>---
+    <C>- <Dm> <G> <Am>---
+    <Dm>- <C> <Em> <G>---
+    <Am>- <Dm> <G> <Am>---
+
+  Chorus: |
+    <G>- <Am>- <Dm> <G> <Am>-
+    <C>- <Dm> <Em> <Am>---
+
+lyrics:
+  - Verse: |
+      O come, O come, Em-man-u-el
+      And ransom captive Is---rael
+      That mourns in lonely ex--ile here
+      Un-til the Son of God a-ppear
+
+  - Chorus: |
+      Re-joice! Re-joice! Em-man-u-el
+      Shall come to thee, O Is--ra-el.
+
+  - Verse: |
+      O come, Thou Rod of Je-sse, free
+      Thine own from Satan's ty--ranny
+      From depths of Hell Thy peo-ple save
+      And give them victory o'er the grave
+
+  - Chorus
+
+  - Verse: |
+      O come, Thou Day-Spring, come and cheer
+      Our spirits by Thine ad-vent here
+      Disperse the gloomy clouds of night
+      And death's dark shadows put to flight.
+
+  - Chorus
+
+  - Verse: |
+      O come, Thou Key of David, come,
+      And open wide our heavenly home;
+      Make safe the way that leads on high,
+      And close the path to mi--sery.
+
+  - Chorus
+
+  - Verse: |
+      O come, O come, Thou Lord of might,
+      Who to Thy tribes, on Sinai's height,
+      In ancient times did'st gi-ve the Law,
+      In cloud, and majesty and awe.
+
+  - Chorus
