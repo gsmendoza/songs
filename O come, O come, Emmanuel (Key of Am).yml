@@ -3,7 +3,7 @@ details: |
     Verse: |
       <i>- <VII> <v> <i>---
       <III>- <iv> <VII> <i>---
-      <iv>- <III> <v> <VII>---
+      <iv>- <III> <i> <VII>---
       <i>- <iv> <VII> <i>---
 
     Chorus: |
@@ -14,7 +14,7 @@ chords:
   Verse: |
     <Am>- <G> <Em> <Am>---
     <C>- <Dm> <G> <Am>---
-    <Dm>- <C> <Em> <G>---
+    <Dm>- <C> <Am> <G>---
     <Am>- <Dm> <G> <Am>---
 
   Chorus: |
