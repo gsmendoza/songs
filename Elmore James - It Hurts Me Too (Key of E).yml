@@ -1,23 +1,23 @@
-music_key: D
+music_key: E
 
 chords:
   Instrumental: |
-    <D>--- <D7>---
-    <G>--- <Gm>---
-    <D>--- <A>---
-    <D> <D7> <G> <Gm> <D>- <A7>-
+    <E>--- <E7>---
+    <A>--- <Am>---
+    <E>--- <B>---
+    <E> <E7> <A> <Am> <E>- <B7>-
 
   Verse: |
-    <D>--- <D7>---
-    <G>--- <Gm>---
-    <D>--- <A>---
-    <D> <D7> <G> <Gm> <D>- <A7>-
+    <E>--- <E7>---
+    <A>--- <Am>---
+    <E>--- <B>---
+    <E> <E7> <A> <Am> <E>- <B7>-
 
   Verse (last): |
-    <D>--- <D7>---
-    <G>--- <Gm>---
-    <D>--- <A>---
-    <D> <D7> <G> <Gm> <D>- <A7>-
+    <E>--- <E7>---
+    <A>--- <Am>---
+    <E>--- <B>---
+    <E> <E7> <A> <Am> <E>- <B7>-
 
 lyrics:
   - Instrumental: |
