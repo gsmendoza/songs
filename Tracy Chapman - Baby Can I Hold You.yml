@@ -1,4 +1,6 @@
 details: |
+  BPM: 72
+
   Progression:
     Verse: |
       I--- V7sus- V7-
@@ -25,11 +27,21 @@ chords:
     <Em>--- <G>-
     <A>--- <Asus>- <A>-
 
-  Chorus: |
+  Chorus 1: |
     <D>--- <Em>- <G>-
     <D>--- <Em>- <G>-
     <Bm>--- <A>---
     <D>--- <G>- <A>-
+
+  Chorus 2: |
+    <D>--- <Em>- <G>-
+    <D>--- <Em>- <G>-
+    <Bm>--- <A>---
+
+  Outro: |
+    <D>--- <Em>- <G>-
+    <D>--- <Em>- <G>-
+    <D>---
 
 lyrics:
   - Intro: |
@@ -50,7 +62,7 @@ lyrics:
       Like forgive me forgive me
       ...
 
-  - Chorus: |
+  - Chorus 1: |
       But you can say baby, baby can I hold you tonight
       Baby if I told you the right words
       Ooh at the right time
@@ -63,4 +75,18 @@ lyrics:
       Like I love you I love you
       ...
 
-  - Chorus
+  - Chorus 2: |
+      But you can say baby, baby can I hold you tonight
+      Baby if I told you the right words
+      Ooh at the right time, you'd be mine
+
+  - Chorus 2: |
+      Baby can I hold you tonight
+      Baby if I told you the right words
+      Ooh at the right time, you'd be mine
+
+  - Outro: |
+      You'd be mine
+      You'd be mine
+      ...
+

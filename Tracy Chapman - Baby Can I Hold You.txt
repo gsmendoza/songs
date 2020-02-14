@@ -1,5 +1,7 @@
 Tracy Chapman - Baby Can I Hold You
 
+BPM: 72
+
 Progression:
   Verse: |
     I--- V7sus- V7-
@@ -32,7 +34,7 @@ Words don't come easily                             <D>--- <A7sus>- <A7>-
 Like forgive me forgive me                          <Em>--- <G>-
 ...                                                 <A>--- <Asus>- <A>-
 
-[Chorus]
+[Chorus 1]
 But you can say baby, baby can I hold you tonight   <D>--- <Em>- <G>-
 Baby if I told you the right words                  <D>--- <Em>- <G>-
 Ooh at the right time                               <Bm>--- <A>---
@@ -45,8 +47,17 @@ Words don't come easily                             <D>--- <A7sus>- <A7>-
 Like I love you I love you                          <Em>--- <G>-
 ...                                                 <A>--- <Asus>- <A>-
 
-[Chorus]
+[Chorus 2]
 But you can say baby, baby can I hold you tonight   <D>--- <Em>- <G>-
 Baby if I told you the right words                  <D>--- <Em>- <G>-
-Ooh at the right time                               <Bm>--- <A>---
-You'd be mine                                       <D>--- <G>- <A>-
+Ooh at the right time, you'd be mine                <Bm>--- <A>---
+
+[Chorus 2]
+Baby can I hold you tonight                         <D>--- <Em>- <G>-
+Baby if I told you the right words                  <D>--- <Em>- <G>-
+Ooh at the right time, you'd be mine                <Bm>--- <A>---
+
+[Outro]
+You'd be mine                                       <D>--- <Em>- <G>-
+You'd be mine                                       <D>--- <Em>- <G>-
+...                                                 <D>---
