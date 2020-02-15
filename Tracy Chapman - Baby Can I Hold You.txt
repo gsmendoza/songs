@@ -4,11 +4,11 @@ BPM: 72
 
 Progression:
   Verse: |
-    I--- V7sus- V7-
-    ii--- V7sus- V7-
-    I--- V7sus- V7-
+    I- Isus2 I V7sus4- V7-
+    ii--- V7sus4- V7-
+    I- Isus2 I V7sus4- V7-
     ii--- IV-
-    V--- Vsus- V-
+    V--- Vsus4- V-
 
   Chorus: |
     I--- ii- IV-
@@ -17,49 +17,51 @@ Progression:
     I--- IV- V-
 
 [Intro]
-...                                                 <D>--- <Asus7>- <A7>-
-...                                                 <D>--- <Asus7>- <A7>-
+...                                              <D>- <Dsus2><D> <A7sus4>- <A7>-
+...                                              <D>- <Dsus2><D> <A7sus4>- <A7>-
 
 [Verse]
-Sorry is all that you can't say                     <D>--- <A7sus>- <A7>-
-Years gone by and still                             <Em>--- <A7sus>- <A7>-
-Words don't come easily                             <D>--- <A7sus>- <A7>-
-Like sorry                                          <Em>--- <G>-
-Like sorry                                          <A>--- <Asus>- <A>-
+Sorry is all that you can't say                  <D>- <Dsus2><D> <A7sus4>- <A7>-
+Years gone by and still                          <Em>--- <A7sus4>- <A7>-
+Words don't come easily                          <D>- <Dsus2><D> <A7sus4>- <A7>-
+Like sorry                                       <Em>--- <G>-
+Like sorry                                       <A>--- <Asus4>- <A>-
 
 [Verse]
-Forgive me is all that you can't say                <D>--- <A7sus>- <A7>-
-Years gone by and still                             <Em>--- <A7sus>- <A7>-
-Words don't come easily                             <D>--- <A7sus>- <A7>-
-Like forgive me                                     <Em>--- <G>-
-Forgive me                                          <A>--- <Asus>- <A>-
+Forgive me is all that you can't say             <D>- <Dsus2><D> <A7sus4>- <A7>-
+Years gone by and still                          <Em>--- <A7sus4>- <A7>-
+Words don't come easily                          <D>- <Dsus2><D> <A7sus4>- <A7>-
+Like forgive me                                  <Em>--- <G>-
+Forgive me                                       <A>--- <Asus4>- <A>-
 
 [Chorus]
-But you can say baby, baby can I hold you tonight   <D>--- <Em>- <G>-
-Baby if I told you the right words                  <D>--- <Em>- <G>-
-Ooh at the right time, you'd be mine                <Bm>--- <A>---
+But you can say baby, baby can I hold you        <D>--- <Em>- <G>-
+tonight
+Baby if I told you the right words               <D>--- <Em>- <G>-
+Ooh at the right time, you'd be mine             <Bm>--- <A>---
 
 [Interlude]
-...                                                 <D>--- <G>- <A>-
+...                                              <D>--- <G>- <A>-
 
 [Verse]
-I love you is all that you can't say                <D>--- <A7sus>- <A7>-
-Years gone by and still                             <Em>--- <A7sus>- <A7>-
-Words don't come easily                             <D>--- <A7sus>- <A7>-
-Like I love you                                     <Em>--- <G>-
-I love you                                          <A>--- <Asus>- <A>-
+I love you is all that you can't say             <D>- <Dsus2><D> <A7sus4>- <A7>-
+Years gone by and still                          <Em>--- <A7sus4>- <A7>-
+Words don't come easily                          <D>- <Dsus2><D> <A7sus4>- <A7>-
+Like I love you                                  <Em>--- <G>-
+I love you                                       <A>--- <Asus4>- <A>-
 
 [Chorus]
-But you can say baby, baby can I hold you tonight   <D>--- <Em>- <G>-
-Baby if I told you the right words                  <D>--- <Em>- <G>-
-Ooh at the right time, you'd be mine                <Bm>--- <A>---
+But you can say baby, baby can I hold you        <D>--- <Em>- <G>-
+tonight
+Baby if I told you the right words               <D>--- <Em>- <G>-
+Ooh at the right time, you'd be mine             <Bm>--- <A>---
 
 [Chorus]
-Baby can I hold you tonight                         <D>--- <Em>- <G>-
-Baby if I told you the right words                  <D>--- <Em>- <G>-
-Ooh at the right time, you'd be mine                <Bm>--- <A>---
+Baby can I hold you tonight                      <D>--- <Em>- <G>-
+Baby if I told you the right words               <D>--- <Em>- <G>-
+Ooh at the right time, you'd be mine             <Bm>--- <A>---
 
 [Outro]
-You'd be mine                                       <D>--- <Em>- <G>-
-You'd be mine                                       <D>--- <Em>- <G>-
-...                                                 <D>---
+You'd be mine                                    <D>--- <Em>- <G>-
+You'd be mine                                    <D>--- <Em>- <G>-
+...                                              <D>---

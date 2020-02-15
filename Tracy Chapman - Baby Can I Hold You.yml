@@ -3,11 +3,11 @@ details: |
 
   Progression:
     Verse: |
-      I--- V7sus- V7-
-      ii--- V7sus- V7-
-      I--- V7sus- V7-
+      I- Isus2 I V7sus4- V7-
+      ii--- V7sus4- V7-
+      I- Isus2 I V7sus4- V7-
       ii--- IV-
-      V--- Vsus- V-
+      V--- Vsus4- V-
 
     Chorus: |
       I--- ii- IV-
@@ -17,15 +17,15 @@ details: |
 
 chords:
   Intro: |
-    <D>--- <Asus7>- <A7>-
-    <D>--- <Asus7>- <A7>-
+    <D>- <Dsus2><D> <A7sus4>- <A7>-
+    <D>- <Dsus2><D> <A7sus4>- <A7>-
 
   Verse: |
-    <D>--- <A7sus>- <A7>-
-    <Em>--- <A7sus>- <A7>-
-    <D>--- <A7sus>- <A7>-
+    <D>- <Dsus2><D> <A7sus4>- <A7>-
+    <Em>--- <A7sus4>- <A7>-
+    <D>- <Dsus2><D> <A7sus4>- <A7>-
     <Em>--- <G>-
-    <A>--- <Asus>- <A>-
+    <A>--- <Asus4>- <A>-
 
   Chorus: |
     <D>--- <Em>- <G>-
