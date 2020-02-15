@@ -1,15 +1,26 @@
 details: |
   Key: G
+  BPM: 60
 
   Progression:
     <I>- <iii>- <IV>- <I>-
 
 chords:
+  Intro: |
+    <G>- <Bm>- <C>- <G>-
+    <G>- <G>---
+
   Chorus: |
     <G>- <Bm>- <C>- <G>-
     <G>- <Bm>- <C>- <G>-
     <G>- <Bm>- <C>- <G>-
     <G>- <Bm>- <C>- <G>-
+
+  Chorus 2: |
+    <G>- <Bm>- <C>- <G>-
+    <G>- <Bm>- <C>- <G>-
+    <G>- <Bm>- <C>- <G>-
+    ...
 
   Verse: |
     <G>- <Bm>- <C>- <G>-
@@ -17,7 +28,20 @@ chords:
     <G>- <Bm>- <C>- <G>-
     <G>- <Bm>- <C>- <G>-
 
+  Interlude: |
+    <G>- <Bm>- <C>- <G>-
+    <G>- <Bm>- <C>- <G>-
+
+  Outro: |
+    <G>- <Bm>- <C>- <G>-
+    <G>- <Bm>- <C>- <G>-
+    <G>- <G>---
+
 lyrics:
+  - Intro: |
+      ...
+      ...
+
   - Chorus: |
       If you’re travelin' in the north country fair
       Where the winds hit heavy on the borderline
@@ -38,4 +62,18 @@ lyrics:
 
   - Chorus
 
-  - Chorus
+  - Interlude: |
+      ...
+      ...
+
+  - Chorus 2: |
+      If you’re travelin' in the north country fair
+      Where the winds hit heavy on the borderline
+      [Remember me|Please say hello] to the one who lives there
+      (Pause) For she once was a true love of mine
+
+  - Outro: |
+      A true love of mine 2x
+      A true love of mine 4x
+      For she once was a true love of mine
+

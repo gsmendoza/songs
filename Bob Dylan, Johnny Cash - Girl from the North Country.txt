@@ -1,9 +1,14 @@
 Bob Dylan, Johnny Cash - Girl from the North Country
 
 Key: G
+BPM: 60
 
 Progression:
   <I>- <iii>- <IV>- <I>-
+
+[Intro]
+...                                                         <G>- <Bm>- <C>- <G>-
+...                                                         <G>- <G>---
 
 [Chorus]
 If you’re travelin' in the north country fair               <G>- <Bm>- <C>- <G>-
@@ -29,8 +34,17 @@ Where the winds hit heavy on the borderline                 <G>- <Bm>- <C>- <G>-
 [Remember me|Please say hello] to the one who lives there   <G>- <Bm>- <C>- <G>-
 For she once was a true love of mine                        <G>- <Bm>- <C>- <G>-
 
-[Chorus]
+[Interlude]
+...                                                         <G>- <Bm>- <C>- <G>-
+...                                                         <G>- <Bm>- <C>- <G>-
+
+[Chorus 2]
 If you’re travelin' in the north country fair               <G>- <Bm>- <C>- <G>-
 Where the winds hit heavy on the borderline                 <G>- <Bm>- <C>- <G>-
 [Remember me|Please say hello] to the one who lives there   <G>- <Bm>- <C>- <G>-
-For she once was a true love of mine                        <G>- <Bm>- <C>- <G>-
+(Pause) For she once was a true love of mine                ...
+
+[Outro]
+A true love of mine 2x                                      <G>- <Bm>- <C>- <G>-
+A true love of mine 4x                                      <G>- <Bm>- <C>- <G>-
+For she once was a true love of mine                        <G>- <G>---
