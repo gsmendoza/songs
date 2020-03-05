@@ -1,5 +1,7 @@
-details:
-  Key of F (Capo on 5th)
+details: |
+  Key of G (Capo on 5th)
+  BPM: 115
+
 
 chords:
   Intro: |
@@ -26,11 +28,17 @@ chords:
     <F>--- <Am>---
     <G>---
 
-  Intermission: |
+  Interlude: |
     <F>- <Am>- <G>---
     <F>- <Am>- <G>---
 
-  Intermission 2: |
+  Solo: |
+    <F>- <Am>- <G>---
+    <F>- <Am>- <G>---
+    <F>- <Am>- <G>---
+    <C>--- <C/Bb>---
+
+  Interlude 2: |
     <F>- <Am>- <G>---
     <F>- <Am>- <G>---
     <F>- <Am>- <G>---
@@ -71,7 +79,7 @@ lyrics:
       She's got Greta Garbo's standoff sighs
       She's got Bette Davis eyes
 
-  - Intermission: |
+  - Interlude: |
       (1)---
       (2)---
 
@@ -93,7 +101,21 @@ lyrics:
       All the boys think she's a spy
       She's got Bette Davis eyes
 
-  - Intermission 2: |
+  - Solo: |
+      (1)---
+      (2)---
+      (3)---
+      (4)---
+
+  - Chorus: |
+      And she'll tease you, she'll unease you,
+      All the better just to please you,
+      She's precocious, and she knows just what it
+      takes to make a pro blush
+      All the boys think she's a spy
+      She's got Bette Davis eyes
+
+  - Interlude 2: |
       (1)---
       (2)---
       (3)---

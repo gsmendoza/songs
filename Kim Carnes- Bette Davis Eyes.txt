@@ -1,6 +1,8 @@
 Kim Carnes- Bette Davis Eyes
 
-Key of F (Capo on 5th)
+Key of G (Capo on 5th)
+BPM: 115
+
 [Intro]
 (1)---                                         <F>- <Am>- <G>---
 (2)---                                         <F>- <Am>- <G>---
@@ -25,7 +27,7 @@ takes to make a pro blush                      <F>--- <C>---
 She's got Greta Garbo's standoff sighs         <F>--- <Am>---
 She's got Bette Davis eyes                     <G>---
 
-[Intermission]
+[Interlude]
 (1)---                                         <F>- <Am>- <G>---
 (2)---                                         <F>- <Am>- <G>---
 
@@ -47,7 +49,21 @@ takes to make a pro blush                      <F>--- <C>---
 All the boys think she's a spy                 <F>--- <Am>---
 She's got Bette Davis eyes                     <G>---
 
-[Intermission 2]
+[Solo]
+(1)---                                         <F>- <Am>- <G>---
+(2)---                                         <F>- <Am>- <G>---
+(3)---                                         <F>- <Am>- <G>---
+(4)---                                         <C>--- <C/Bb>---
+
+[Chorus]
+And she'll tease you, she'll unease you,       <Am>--- <C>---
+All the better just to please you,             <F>--- <C>---
+She's precocious, and she knows just what it   <Am>--- <C>---
+takes to make a pro blush                      <F>--- <C>---
+All the boys think she's a spy                 <F>--- <Am>---
+She's got Bette Davis eyes                     <G>---
+
+[Interlude 2]
 (1)---                                         <F>- <Am>- <G>---
 (2)---                                         <F>- <Am>- <G>---
 (3)---                                         <F>- <Am>- <G>---
