@@ -1,33 +1,33 @@
 music_key: E
 
 chords:
-  Instrumental: |
+  Solo: |
     <E>--- <E7>---
     <A>--- <Am>---
-    <E>--- <B>---
+    <E>--- <B7>---
     <E> <E7> <A> <Am> <E>- <B7>-
 
   Verse: |
     <E>--- <E7>---
     <A>--- <Am>---
-    <E>--- <B>---
+    <E>--- <B7>---
     <E> <E7> <A> <Am> <E>- <B7>-
 
   Verse (last): |
     <E>--- <E7>---
     <A>--- <Am>---
-    <E>--- <B>---
-    <E> <E7> <A> <Am> <E>- <B7>-
+    <E>--- <B7>---
+    <E> <E7> <A> <Am> <E>- <E>-
 
 lyrics:
-  - Instrumental: |
+  - Solo: |
       ...
       ...
       ...
       ...
 
   - Verse: |
-      You said you hurtin', you almost lost your mind
+      You said you was hurtin', you almost lost your mind
       Now the man you love he hurt you all the time
       But when things go wrong, go wrong with you
       It hurts me too
@@ -35,7 +35,7 @@ lyrics:
   - Verse: |
       You love him more, when you should love him less
       Why pick up behind him and take his mess
-      But when things go wrong, wrong with you
+      But when things go wrong, go wrong with you
       It hurts me too
 
   - Verse: |
@@ -44,7 +44,7 @@ lyrics:
       When things go wrong, go wrong with you
       It hurts me too
 
-  - Instrumental
+  - Solo
 
   - Verse (last): |
       Now he'd better leave you, or you better put him down
