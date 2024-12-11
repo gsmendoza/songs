@@ -1,0 +1,67 @@
+Eric Clapton - Nobody Knows You When You're Down and Out - Acoustic Live
+
+Key: C
+My preferred key: D
+
+Notes:
+
+* F#dim - 2x221x
+* Outro is simplified
+
+[Intro]
+<C>- <E7>- <A7>---               .. .. ....
+<Dm>- <A7>- <Dm> <A7> <Dm>-      .. .. .. . .
+<F>- <F#dim> <C> <C/B> <A7>-     .. .. . . ..
+<D>- <D7>- <G>- <G7>-            .. .. .. ..
+
+[Verse]
+<C>- <E7>- <A7>---               Once I lived the life of a millionaire
+<Dm>- <A7>- <Dm> <A7> <Dm>-      Spent all my money, just didn't have any care
+<F>- <F#dim> <C> <C/B> <A7>-     Took all my friends out for a mighty good time
+<D>- <D7>- <G>- <G7>-            Bought bootleg liquor, champaigne and wine
+
+[Verse]
+<C>- <E7>- <A7>---               Then I began to fall so low
+<Dm>- <A7>- <Dm> <A7> <Dm>-      Lost all my good friends, had nowhere to go
+<F>- <F#dim> <C> <C/B> <A7>-     If I get my hands on a dollar again
+<D>- <D7>- <G>- <G7>-            I'll hang on to it till that old eagle grins, because
+
+[Chorus]
+<C>- <E7>- <A7>---               Nobody knows you
+<Dm>- <A7>- <Dm> <A7> <Dm>-      When you're down and out
+<F>- <F#dim> <C> <C/B> <A7>-     In your pocket, not one penny
+<D>- <D7>- <G>- <G7>-            And as for friends, you don't have any
+
+<C>- <E7>- <A7>---               When you get back on your feet again
+<Dm>- <A7>- <Dm> <A7> <Dm>-      Everybody wants to be your long-lost friend
+<F>- <F#dim> <C> <C/B> <A7>-     I said it strange, without any doubt
+<D>- <D7>- <G>- <G7>-            Nobody knows you when you're down and out
+
+[Solo]
+<C>- <E7>- <A7>---               .. .. ....
+<Dm>- <A7>- <Dm> <A7> <Dm>-      .. .. .. . .
+<F>- <F#dim> <C> <C/B> <A7>-     .. .. . . ..
+<D>- <D7>- <G>- <G7>-            .. .. .. ..
+
+<C>- <E7>- <A7>---               .. .. ....
+<Dm>- <A7>- <Dm> <A7> <Dm>-      .. .. .. . .
+<F>- <F#dim> <C> <C/B> <A7>-     .. .. . . ..
+<D>- <D7>- <G>- <G7>-            .. .. .. ..
+
+[Chorus 2]
+<C>- <E7>- <A7>---               Nobody knows you
+<Dm>- <A7>- <Dm> <A7> <Dm>-      When you're down and out
+<F>- <F#dim> <C> <C/B> <A7>-     In your pocket, not one penny
+<D>- <D7>- <G>- <G7>-            And as for friends, you don't have any
+
+<C>- <E7>- <A7>---               When you get back on your feet again
+<Dm>- <A7>- <Dm> <A7> <Dm>-      Everybody wants to be your long-lost friend
+<F>- <F#dim> <C> <C/B> <A7>-     I said it strange, without any doubt
+
+<D>- <D>- <D>- <D>-              Nobody knows you
+<D>- <D>- <D>- <D>-              Nobody knows you
+<D>- <D7>- <G>-!                 Nobody knows you when you're down and out
+
+[Outro]
+<G>-- <F>-- <Eb>-- <D>-- <C>!    ... ... ... ... .!
+<B9> <C9>...                     . ....

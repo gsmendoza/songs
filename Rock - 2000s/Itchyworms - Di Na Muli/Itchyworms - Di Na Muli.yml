@@ -1,0 +1,114 @@
+config:
+  table_width: 100
+
+details: |
+  Key: B
+  Capo: 2nd fret
+
+chords:
+  Intro: |
+    <A>-- <A>-- <A>-- <A>--
+
+  Verse: |
+    <A>-- <A>--
+    <A>-- <A>-- <F#m>-- <F#m>--
+    <F#m>-- <F#m>-- <D>-- <D>--
+    <G>-- <G>-- <A>-- <A>--
+    <E>-- <E>--
+
+  Chorus: |
+    <F#m>-- <E>-- <D>-- <D>--
+    <F#m>-- <E>-- <D>-- <D>--
+    <F#m>-- <E>-- <D>-- <D>--
+    <F#m>-- <E>-- <D>-- <D>--
+
+    <Bm>-- <Bm>-- <E>-- <E>--
+
+  Solo: |
+    <A>-- <C#>-- <D>-- <B7>--
+    <A>-- <Cdim>-- <Bm>-- <E>--
+    <A>-- <C#>-- <F#m>-- <B7>--
+    <E>-- <E7>-- <A>-- <E>--
+
+  Bridge: |
+    <A>-- <C#>-- <D>-- <B7>--
+    <A>-- <Cdim>-- <Bm>-- <E>--
+    <A>-- <C#>-- <F#m>-- <B7>--
+    <E>-- <E7>-- <A>-- <E>--
+
+  Coda: |
+    <A>-- <A>--
+    <A>-- <A>-- <F#m>-- <F#m>--
+    <F#m>-- <F#m>-- <D>-- <D>--
+    <G>-- <G>-- <A>-- <A>--
+
+    <G>-- <G>-- <A>-- <A>--
+    <G>-- <G>-- <A>-- <A>--
+    <G>-- <G>-- <A>-- <A>--
+    <G>-- <G>-- <A>-- <A>--
+    <G>-- <G>-- <A>-- <A>--
+    <G>-- <G>-- <A>-- <A>--
+
+    <G>.. ... <A>.. ...
+
+lyrics:
+  - Intro: |
+      ... ... ... ...
+
+  - Verse: |
+      Nung araw
+      Kay tamis ng ating buhay
+      Puno ng saya at ng kulay
+      Di mauulit muli
+      ... ...
+
+  - Verse: |
+      Ang oras
+      kapag hinayaang lumipas
+      Madarama mo hanggang bukas
+      Di mababawi muli
+      ... ...
+
+  - Chorus: |
+      Ang dami daming bagay na hindi naman kailangan
+      Kung pwede lang bawasan nating ang mga tampuhan
+      Hindi mo lang alam hindi mo pa nararanasan
+      Kahapon sana natin di mo na pinahirapan
+
+      Patawad muli, di na muli (di na muli)
+
+  - Verse: |
+      Ang oras
+      Kapag hinayaang lumipas
+      Madarama mo hanggang bukas
+      Di mababawi muli
+      ... ...
+
+  - Solo: |
+      ... ... ... ... ...
+      ... ... ... ... ...
+      ... ... ... ... ...
+      ... ... ... ... ...
+
+  - Bridge: |
+      At natapos ang himas ng sandali
+      Di kukubli aking tinig
+      Nang lumipas na't di man lang nasabi
+      Salamat hanggang sa muli
+
+  - Chorus
+
+  - Coda: |
+      Binawi
+      buhay mo na walang sabi
+      Binubulong ko sa sarili
+      Mahal kita hanggang sa huli (Di na muli...)
+
+      (1) Mahal ko hanggang sa huli (Di na muli...)
+      (2) Mahal ko hanggang sa huli (Di na muli...)
+      (3) Mahal ko hanggang sa huli (Di na muli...)
+      (4) Mahal ko hanggang sa huli (Di na muli...)
+      (5) Mahal ko hanggang sa huli (Di na muli...)
+      (6) Mahal ko hanggang sa huli (Di na muli...)
+
+      Mahal ko hanggang sa muli

@@ -1,0 +1,58 @@
+The Beatles - Til There Was You
+
+Key: G
+Original Key: F
+
+This is loosely based on the Beatles version.
+
+Demo: https://www.youtube.com/watch?v=1p53ZXihg40
+
+[Intro]
+<GM7>- <G#dim7>- <Am7>- <D7>-     .. .. .. ..
+<GM7>- <G#dim7>- <Am7>- <D7>-     .. .. .. ..
+
+[Verse 1]
+<GM7>--- <G#dim7>---              There were bells on a hill
+<Am7>--- <Cm7>---                 but I never heard them ringing.
+<G>- <Bm7> <Bbm7> <Am7>- <D7>-    No I never heard them at all
+<GM7>- <G#dim7>- <Am7>- <D7>-     ‘til there was you.
+
+[Verse 2]
+<GM7>--- <G#dim7>---              There were birds in the sky
+<Am7>--- <Cm7>---                 but I never saw them winging.
+<G>- <Bm7> <Bbm7> <Am7>- <D7>-    No I never saw them at all,
+<GM7>- <CM7>- <GM7>---            ‘til there was you.
+
+[Bridge]
+<CM7>--- <C#m7b5>---              And there was music, and there were wonderful roses,
+<GM7/D>--- <E7>---                they tell me,
+<Am7>--- <A7>---                  in sweet fragrant meadows
+<D7>--- <D7b9>---                 of dawn and dew.
+
+[Verse 1]
+<GM7>--- <G#dim7>---              There was love all around,
+<Am7>--- <Cm7>---                 but I never heard it singing.
+<G>- <Bm7> <Bbm7> <Am7>- <D7>-    No I never heard it at all,
+<GM7>- <G#dim7>- <Am7>- <D7>-     ‘til there was you.
+
+[Solo]
+<GM7>--- <G#dim7>---              .... ....
+<Am7>--- <Cm7>---                 .... ....
+<G>- <Bm7> <Bbm7> <Am7>- <D7>-    .. . . .. ..
+<GM7>- <CM7>- <GM7>---            .. .. ...
+
+[Bridge]
+<CM7>--- <C#m7b5>---              And there was music, and there were wonderful roses,
+<GM7/D>--- <E7>---                they tell me,
+<Am7>--- <A7>---                  in sweet fragrant meadows
+<D7>--- <D7b9>---                 of dawn and dew.
+
+[Verse 2]
+<GM7>--- <G#dim7>---              There was love all around,
+<Am7>--- <Cm7>---                 but I never heard it singing.
+<G>- <Bm7> <Bbm7> <Am7>- <D7>-    No I never heard it at all,
+<GM7>- <CM7>- <GM7>---            ‘til there was you.
+
+[Outro]
+<D7>-- <C#7> <D7>---              Til..
+<GM7>- <Eb7>- <GM7>- <GM7>...     There was you...

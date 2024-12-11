@@ -1,0 +1,97 @@
+config:
+  table_width: 100
+
+details: |
+  Key: E
+  Capo: 2nd Fret
+
+chords:
+  Intro: |
+    <D>--- <G>---
+    <A>--- <D>---
+
+  Verse: |
+    <D>--- <G>---
+    <A>--- <D>---
+    <D>--- <G>---
+    <A>--- <D>-- <A>
+
+  Chorus: |
+    <Bm>--- <G>---
+    <A>--- <D>---
+    <Bm>--- <G>---
+    <A>--- <D>---
+
+  Solo: |
+    <D>--- <G>---
+    <A>--- <D>---
+
+  Last Verse: |
+    <D>--- <G>---
+    <A>--- <D>---
+    <D>--- <G>---
+    <A>--- <D>-- <D>....
+
+lyrics:
+  - Intro: |
+      .... ....
+      .... ....
+
+  - Verse: |
+      Wala ka bang napapansin
+      sa iyong mga kapaligiran?
+      Kay dumi na ng hangin,
+      pati na ang mga ilog natin.
+
+  - Chorus: |
+      Hindi na masama ang pag-unlad
+      At malayu-layo na rin ang ating narating
+      Ngunit masdan mo ang tubig sa dagat
+      Dati'y kulay asul ngayo'y naging itim.
+
+
+  - Verse: |
+      Ang mga duming ating ikinalat sa hangin
+      Sa langit huwag na nating paabutin
+      Upang kung tayo'y pumanaw man, sariwang hangin
+      Sa langit natin matitikman.
+ 
+  - Chorus: |
+      Mayron lang akong hinihiling
+      Sa aking pagpanaw sana ay tag-ulan
+      Gitara ko ay aking dadalhin
+      Upang sa ulap na lang tayo magkantahan.
+ 
+  - Solo: |
+      .... ....
+      .... ....
+ 
+  - Verse: |
+      Ang mga batang ngayon lang isinilang
+      May hangin pa kayang matitikman?
+      May mga puno pa kaya silang aakyatin
+      May mga ilog pa kayang lalanguyan?
+
+  - Chorus: |
+      Bakit di natin pagisipan
+      Ang nangyayari sa ating kapaligiran
+      Hindi na masama ang pag-unlad
+      Kung hindi nakakasira ng kalikasan.
+
+  - Verse: |
+      Darating ang panahon mga ibong gala
+      Ay wala nang madadapuan
+      Masdan mo ang mga punong dati ay kay tatag
+      Ngayo'y namamatay dahil sa 'ting kalokohan
+ 
+  - Chorus: |
+      Lahat ng bagay na narito sa lupa
+      Biyayang galing sa Diyos kahit nong ika'y wala pa
+      Ingatan natin at 'wag nang sirain pa
+      Pagkat pag Kanyang binawi, tayo'y mawawala na.
+ 
+  - Last Verse: |
+      Mayron lang akong hinihiling
+      Sa aking pagpanaw sana ay tag-ulan
+      Gitara ko ay aking dadalhin
+      Upang sa ulap na lang tayo magkantahan.

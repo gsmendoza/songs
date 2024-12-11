@@ -1,0 +1,89 @@
+config:
+  table_width: 90
+
+details: |
+  Key: Bb
+  Capo: 3rd fret
+
+chords: 
+  Intro: |
+    <G>- <Bm7>- <C>- <D7>-
+    <G>- <Bm7>- <C>- <D7>-
+
+  Verse A: |
+    <G>- <Bm7>- <C>- <D7>-
+    <G>- <Bm7>- <C>- <D7>-
+    <C>--- <Bm7>---
+    <Am7>- <D7>- <G>- <D7>-
+
+  Verse B: |
+    <G>- <Bm7>- <C>- <D7>-
+    <G>- <Bm7>- <C>- <D7>-
+    <C>--- <Bm7>---
+    <Am7>- <D7>- <G>- <Am7> <G/B>
+
+  Chorus: |
+    <C>--- <C>---
+    <Bm7>--- <Bm7>- <Am7> <Bm7>
+    <C>---- <C>---
+    <Bm7>--- <D7>...
+
+  Solo: |
+    <G>- <Bm7>- <C>- <D7>-
+    <G>- <Bm7>- <C>- <D7>-
+    <C>--- <Bm7>---
+    <Am7>- <D7>- <G>- <Am7> <G/B>
+
+  Outro: |
+    <C>--- <Bm7>---
+    <Am7>- <D7>- <G>- <Am7> <G/B>
+
+    <C>--- <Bm7>---
+    <Am7>- <D7>- <G>...
+
+ 
+lyrics:
+  - Intro: |
+      .. .. .. ..
+      .. .. .. ..
+
+  - Verse A: |
+      Have I told you lately that I love you
+      Have I told you there's no one else above you
+      You fill my heart with gladness, take away all my sadness
+      Ease my troubles, that's what you do
+ 
+  - Verse B: |
+      For the morning sun and all its glory
+      Greets the day with hope and comfort, too
+      You fill my heart with laughter, and somehow, you make it better
+      Ease my troubles, that's what you do
+
+  - Chorus: |
+      There's a love that's divine, and it's yours and it's mine
+      Like the sun
+      And at the end of the day, we should give thanks and pray
+      To the one, to the one
+ 
+  - Verse A
+ 
+  - Solo: |
+      .. .. .. ..
+      .. .. .. ..
+      .... ....
+      .. .. .. . .
+
+  - Chorus
+ 
+  - Verse B: |
+      Have I told you lately that I love you
+      Have I told you there's no one else above you
+      You fill my heart with gladness, take away my sadness
+      Ease my troubles, that's what you do
+
+  - Outro: |
+      Take away all my sadness, fill my life with gladness
+      Ease my troubles, that's what you do
+
+      Take away all my sadness, fill my life with gladness
+      Ease my troubles, that's what you do
