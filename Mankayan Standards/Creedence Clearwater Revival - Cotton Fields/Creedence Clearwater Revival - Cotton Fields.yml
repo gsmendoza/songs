@@ -1,0 +1,93 @@
+details: |
+  Key: A
+  My preferred key: B
+
+chords: 
+  Intro: |
+    <A>---
+    <E> <D> <A>.
+
+  Verse: |
+    ....
+    <D>- <A>-
+    <A>---
+    <E>---
+
+  Chorus: |
+    <A>---
+    <D>- <A>-
+    <A>- <E>-
+    <A> <D> <A>-
+
+  Bridge: |
+    <D>---
+    <A>---
+    <A>---
+    <E>---
+
+  Interlude: |
+    <A>---
+    <D>- <A>-
+    <A>---
+    <E>---
+
+    <A>---
+    <D>- <A>-
+    <A>- <E>-
+    <A> <D> <A>.
+
+  Outro: |
+    <A>- <E>-
+    <A> <D> <A>-
+
+lyrics:
+  - Intro: |
+      ....
+      . . ..
+
+  - Verse: |
+      When I was a little bitty baby
+      My mama would rock me in the cradle
+      In them old cotton fields back home
+      ....
+
+  - Chorus: |
+      It was down in Louisiana
+      Just about a mile from Texarkana
+      In them old cotton fields back home
+      ....
+
+  - Bridge: |
+      Oh, when them cotton bolls get rotten
+      You can't pick very much cotton
+      In them old cotton fields back home
+      ....
+
+  - Chorus
+
+  - Verse
+
+  - Chorus
+
+  - Bridge
+
+  - Chorus
+
+  - Interlude: |
+      ....
+      .. ..
+      .. ..
+      ....
+
+      ....
+      .. ..
+      .. ..
+      . . ..
+
+  - Verse
+
+  - Chorus
+
+  - Outro: |
+      In them old cotton fields back home
+      ....
