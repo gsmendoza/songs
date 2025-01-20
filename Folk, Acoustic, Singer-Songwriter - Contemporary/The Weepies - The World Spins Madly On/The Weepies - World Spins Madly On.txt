@@ -3,6 +3,8 @@ The Weepies - World Spins Madly On
 Key: Db
 Capo: 6th
 
+My preferred key: D
+
 [Intro]
 <G>---              ....
 <Dsus4/F#>---       ....
@@ -78,20 +80,18 @@ Capo: 6th
 <G>- <Dsus4/F#>-    and the day is gone
 <Em7>- <D>-         And the world spins madly on
 
-[Last Interlude]
+[Last Verse]
 <G>---              ....
 <Dsus4/F#>---       ....
 
-[Tag]
 <Cadd9>---          I thought of you
 <G>- <Dsus4/F#>-    and where you'd gone
-
 <Em7>- <D>-         And the world spins madly
-<G>---              on
 
+<G>---              on
 <Em7>- <D>-         And the world spins madly
-<G>---              on
 
+<G>---              on
 <Em7>---            And the world
 <D>---              spins madly...
 
