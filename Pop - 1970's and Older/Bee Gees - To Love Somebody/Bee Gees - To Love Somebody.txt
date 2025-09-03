@@ -1,6 +1,7 @@
 Bee Gees - To Love Somebody
 
 Key: A
+My Preferred key: B
 
 [Interlude]
 <A>-<G>- <D><A>--    ...
