@@ -4,102 +4,177 @@ Key: Cm
 Capo: 3rd fret
 
 [Intro]
-.. .. ..             Then off to reap the corn, and leave where I was born
-.. .. ..             I cut a stout black thorn, for to banish ghosts and goblins
-.. .. ..             A brand new pair of brogues, to rattle over the bogs
-.. .. ..             And frightened all the dogs on the rocky road to Dublin
+...         Then off to reap the corn,
+...         and leave where I was born
+...         I cut a stout black thorn,
+...         for to banish ghosts and goblins
 
-.. .. .              One, two, three, four, five
+...         A brand new pair of brogues,
+...         to rattle over the bogs
+...         And frightened all the dogs
+...         on the rocky road to Dublin
 
-[Verse]
-<Am>- <Am>- <Am>-    Well, in the merry month of May, from me home I started
-<Am>- <Am>- <Am>-    Left the girls of Tuam were nearly broken-hearted
-<Am>- <Am>- <Am>-    Saluted Father dear, kissed me darling mother
-<Am>- <Am>- <Am>-    Drank a pint of beer, my grief and tears to smother
-
-<Am>- <Am>- <Am>-    Then off to reap the corn, leave where I was born
-<Am>- <Am>- <Am>-    Cut a stout black thorn to banish ghosts and goblins
-<Am>- <Am>- <Am>-    Brand new pair of brogues, rattlin' over the bogs
-<Am>- <Am>- <Am>-    And frightened all the dogs on the rocky road to Dublin
-
-<Am>- <Am>- <Am>!    One, two, three, four, five
-
-[Chorus]
-<Am>- <Am>- <Am>-    Hunt the hare and turn her down the rocky road
-<Am>- <Am>- <Am>-    And all the way to Dublin, whack follol le-dah
+...         One, two, three,
+..          four, five
 
 [Verse]
-<Am>- <Am>- <Am>-    In Mullingar that night, I rested limbs so weary
-<Am>- <Am>- <Am>-    Started by daylight next morning, bright and airy
-<Am>- <Am>- <Am>-    Took a drop of the pure to keep me heart from sinkin'
-<Am>- <Am>- <Am>-    That's the Paddy's cure whenever he's on for drinkin'
+<Am>--      Well, in the merry month of May,
+<Am>--      from me home I started
+<Am>--      Left the girls of Tuam
+<Am>--      were nearly broken-hearted
 
-<Am>- <Am>- <Am>-    To hear the lassies smile, laughin' all the while
-<Am>- <Am>- <Am>-    At me curious style, 'twould set your heart a bubblin'
-<Am>- <Am>- <Am>-    Asked me was I hired, wages I required
-<Am>- <Am>- <Am>-    'Til I was almost tired of the rocky road to Dublin
+<Am>--      Saluted Father dear,
+<Am>--      kissed me darling mother
+<Am>--      Drank a pint of beer,
+<Am>--      my grief and tears to smother
 
-<Am>- <Am>- <Am>!    One, two, three, four, five
+<Am>--      Then off to reap the corn,
+<Am>--      leave where I was born
+<Am>--      Cut a stout black thorn
+<Am>--      to banish ghosts and goblins
+
+<Am>--      Brand new pair of brogues,
+<Am>--      rattlin' over the bogs
+<Am>--      And frightened all the dogs
+<Am>--      on the rocky road to Dublin
+
+<Am>--      One, two, three,
+<Am>-!      four, five
 
 [Chorus]
-<Am>- <Am>- <Am>-    Hunt the hare and turn her down the rocky road
-<Am>- <Am>- <Am>-    And all the way to Dublin, whack follol le-dah
+<Am>--      Hunt the hare and turn her down
+<Am>--      the rocky road and all
+<Am>--      the way to Dublin, whack
+<Am>--      follol le-dah
 
 [Verse]
-<Am>- <Am>- <Am>-    In Dublin next arrived, I thought it such a pity
-<Am>- <Am>- <Am>-    To be so soon deprived a view of that fine city
-<Am>- <Am>- <Am>-    Then I took a stroll, all among the quality
-<Am>- <Am>- <Am>-    Bundle it was stole, in a neat locality
+<Am>--      In Mullingar that night,
+<Am>--      I rested limbs so weary
+<Am>--      Started by daylight
+<Am>--      next morning, bright and airy
 
-<Am>- <Am>- <Am>-    Something crossed me mind, when I looked behind
-<Am>- <Am>- <Am>-    No bundle could I find upon me stick a-wobblin'
-<Am>- <Am>- <Am>-    Enquiring for the rogue, said me Connaught brogue
-<Am>- <Am>- <Am>-    Wasn't much in vogue on the rocky road to Dublin
+<Am>--      Took a drop of the pure
+<Am>--      to keep me heart from sinkin'
+<Am>--      That's the Paddy's cure
+<Am>--      whenever he's on for drinkin'
 
-<Am>- <Am>- <Am>!    One, two, three, four, five
+<Am>--      To hear the lassies smile,
+<Am>--      laughin' all the while
+<Am>--      At me curious style,
+<Am>--      'twould set your heart a bubblin'
+
+<Am>--      Asked me was I hired,
+<Am>--      wages I required
+<Am>--      'Til I was almost tired
+<Am>--      of the rocky road to Dublin
+
+<Am>--      One, two, three,
+<Am>-!      four, five
 
 [Chorus]
-<Am>- <Am>- <Am>-    Hunt the hare and turn her down the rocky road
-<Am>- <Am>- <Am>-    And all the way to Dublin, whack follol le-dah
+<Am>--      Hunt the hare and turn her down
+<Am>--      the rocky road and all
+<Am>--      the way to Dublin, whack
+<Am>--      follol le-dah
 
 [Verse]
-<Am>- <Am>- <Am>-    From there I got away, my spirits never failin'
-<Am>- <Am>- <Am>-    Landed on the quay, just as the ship was sailin'
-<Am>- <Am>- <Am>-    Captain at me roared, said that no room had he
-<Am>- <Am>- <Am>-    When I jumped aboard, a cabin found for Paddy
+<Am>--      In Dublin next arrived,
+<Am>--      I thought it such a pity
+<Am>--      To be so soon deprived
+<Am>--      a view of that fine city
 
-<Am>- <Am>- <Am>-    Down among the pigs, played some funny rigs
-<Am>- <Am>- <Am>-    Danced some hearty jigs, the water 'round me bubblin'
-<Am>- <Am>- <Am>-    Off to Holyhead, wished meself was dead
-<Am>- <Am>- <Am>-    Or better far instead, on the rocky road to Dublin
+<Am>--      Then I took a stroll,
+<Am>--      all among the quality
+<Am>--      Bundle it was stole,
+<Am>--      in a neat locality
 
-<Am>- <Am>- <Am>!    One, two, three, four, five
+<Am>--      Something crossed me mind,
+<Am>--      when I looked behind
+<Am>--      No bundle could I find
+<Am>--      upon me stick a-wobblin'
+
+<Am>--      Enquiring for the rogue,
+<Am>--      said me Connaught brogue
+<Am>--      Wasn't much in vogue
+<Am>--      on the rocky road to Dublin
+
+<Am>--      One, two, three,
+<Am>-!      four, five
 
 [Chorus]
-<Am>- <Am>- <Am>-    Hunt the hare and turn her down the rocky road
-<Am>- <Am>- <Am>-    And all the way to Dublin, whack follol le-dah
+<Am>--      Hunt the hare and turn her down
+<Am>--      the rocky road and all
+<Am>--      the way to Dublin, whack
+<Am>--      follol le-dah
 
 [Verse]
-<Am>- <Am>- <Am>-    The boys of Liverpool, when we safely landed
-<Am>- <Am>- <Am>-    Called meself a fool, I could no longer stand it
-<Am>- <Am>- <Am>-    Blood began to boil, temper I was losin'
-<Am>- <Am>- <Am>-    Poor old Erin's Isle, they began abusin'
+<Am>--      From there I got away,
+<Am>--      my spirits never failin'
+<Am>--      Landed on the quay,
+<Am>--      just as the ship was sailin'
 
-<Am>- <Am>- <Am>-    "Hurrah me soul," says I, shillelagh I let fly
-<Am>- <Am>- <Am>-    Galway boys were by and saw I was a hobblin'
-<Am>- <Am>- <Am>-    With a loud "Hurray!" joinin' in the affray
-<Am>- <Am>- <Am>-    We quickly cleared the way on the rocky road to Dublin
+<Am>--      Captain at me roared,
+<Am>--      said that no room had he
+<Am>--      When I jumped aboard,
+<Am>--      a cabin found for Paddy
 
-<Am>- <Am>- <Am>!    One, two, three, four, five
+<Am>--      Down among the pigs,
+<Am>--      played some funny rigs
+<Am>--      Danced some hearty jigs,
+<Am>--      the water 'round me bubblin'
+
+<Am>--      Off to Holyhead,
+<Am>--      wished meself was dead
+<Am>--      Or better far instead,
+<Am>--      on the rocky road to Dublin
+
+<Am>--      One, two, three,
+<Am>-!      four, five
 
 [Chorus]
-<Am>- <Am>- <Am>-    Hunt the hare and turn her down the rocky road
-<Am>- <Am>- <Am>-    And all the way to Dublin, whack follol le-dah
+<Am>--      Hunt the hare and turn her down
+<Am>--      the rocky road and all
+<Am>--      the way to Dublin, whack
+<Am>--      follol le-dah
+
+[Verse]
+<Am>--      The boys of Liverpool,
+<Am>--      when we safely landed
+<Am>--      Called meself a fool,
+<Am>--      I could no longer stand it
+
+<Am>--      Blood began to boil,
+<Am>--      temper I was losin'
+<Am>--      Poor old Erin's Isle,
+<Am>--      they began abusin'
+
+<Am>--      "Hurrah me soul," says I,
+<Am>--      shillelagh I let fly
+<Am>--      Galway boys were by
+<Am>--      and saw I was a hobblin'
+
+<Am>--      With a loud "Hurray!"
+<Am>--      joinin' in the affray
+<Am>--      We quickly cleared the way
+<Am>--      on the rocky road to Dublin
+
+<Am>--      One, two, three,
+<Am>-!      four, five
 
 [Chorus]
-<Am>- <Am>- <Am>-    Hunt the hare and turn her down the rocky road
-<Am>- <Am>- <Am>-    And all the way to Dublin, whack follol le-dah
+<Am>--      Hunt the hare and turn her down
+<Am>--      the rocky road and all
+<Am>--      the way to Dublin, whack
+<Am>--      follol le-dah
 
 [Chorus]
-<Am>- <Am>- <Am>-    Hunt the hare and turn her down the rocky road
-<Am>- <Am>- <Am>-    And all the way to Dublin, whack follol le-dah
+<Am>--      Hunt the hare and turn her down
+<Am>--      the rocky road and all
+<Am>--      the way to Dublin, whack
+<Am>--      follol le-dah
+
+[Chorus]
+<Am>--      Hunt the hare and turn her down
+<Am>--      the rocky road and all
+<Am>--      the way to Dublin, whack
+<Am>--      follol le-dah
